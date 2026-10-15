@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb6f04dc-afbe-4cd1-8e8d-724674fd9ab4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3IRs5MnxrudIppwa6mnOuFavOZl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.B8.executor": "Run",
+    "Application.SimpleClient.executor": "Run",
+    "Application.SimpleServer.executor": "Run",
+    "Application.TCP.b3.executor": "Run",
+    "Application.b3.executor": "Run",
+    "Application.b4.executor": "Run",
+    "Application.b5.executor": "Run",
+    "Application.b9.executor": "Run",
+    "Application.btap.executor": "Run",
+    "Application.client.executor": "Run",
+    "Application.data_type_b1_tlGCWJpJ.executor": "Run",
+    "Application.data_type_b2_6582m4L5.executor": "Run",
+    "Application.object_b1_OxSGOB3O.executor": "Run",
+    "Application.object_b2_drVfljb6.executor": "Run",
+    "Application.org.example.tcp.btap.executor": "Run",
+    "Application.server.executor": "Run",
+    "Application.string_b1_7JXiBkDn.executor": "Run",
+    "Application.string_b2_Hm6KnJGp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Documents/PTIT/LTM/TH",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Documents/PTIT/LTM/TH/Websocket/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.object_b2_drVfljb6">
+    <configuration name="data_type_b2_6582m4L5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UDP.data_type_b2_6582m4L5" />
+      <module name="TH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UDP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="object_b1_OxSGOB3O" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UDP.object_b1_OxSGOB3O" />
+      <module name="TH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UDP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="object_b2_drVfljb6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UDP.object_b2_drVfljb6" />
+      <module name="TH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UDP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_b1_7JXiBkDn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UDP.string_b1_7JXiBkDn" />
+      <module name="TH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UDP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_b2_Hm6KnJGp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UDP.string_b2_Hm6KnJGp" />
+      <module name="TH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UDP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.object_b2_drVfljb6" />
+        <item itemvalue="Application.object_b1_OxSGOB3O" />
+        <item itemvalue="Application.string_b2_Hm6KnJGp" />
+        <item itemvalue="Application.string_b1_7JXiBkDn" />
+        <item itemvalue="Application.data_type_b2_6582m4L5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb6f04dc-afbe-4cd1-8e8d-724674fd9ab4" name="Changes" comment="" />
+      <created>1787738530430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787738530430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
