@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb6f04dc-afbe-4cd1-8e8d-724674fd9ab4" name="Changes" comment="" />
+    <list default="true" id="cb6f04dc-afbe-4cd1-8e8d-724674fd9ab4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java/RMI/ByteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/CharacterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/DataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/ObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/TicketSla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/rmi_b1_ZQ1B7gMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/rmi_b2_esA8c1MA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/rmi_b3_khHFrA1U.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/rmi_b4_99Gw3mrh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/rmi_b5_R1YmhawL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/rmi_b6_jZ2VXKlN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/RMI/rmi_b7_OPSyWfqH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/WS/ws_b1_d9kELEa5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +31,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -42,13 +60,22 @@
     "Application.object_b1_OxSGOB3O.executor": "Run",
     "Application.object_b2_drVfljb6.executor": "Run",
     "Application.org.example.tcp.btap.executor": "Run",
+    "Application.rmi_b1_ZQ1B7gMy.executor": "Run",
+    "Application.rmi_b2_esA8c1MA.executor": "Run",
+    "Application.rmi_b3_khHFrA1U.executor": "Run",
+    "Application.rmi_b4_99Gw3mrh.executor": "Run",
+    "Application.rmi_b5_R1YmhawL.executor": "Run",
+    "Application.rmi_b6_jZ2VXKlN.executor": "Run",
+    "Application.rmi_b7_OPSyWfqH.executor": "Run",
     "Application.server.executor": "Run",
     "Application.string_b1_7JXiBkDn.executor": "Run",
     "Application.string_b2_Hm6KnJGp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Documents/PTIT/LTM/TH",
     "node.js.detected.package.jshint": "true",
@@ -61,13 +88,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.object_b2_drVfljb6">
-    <configuration name="data_type_b2_6582m4L5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UDP.data_type_b2_6582m4L5" />
+  <component name="RunManager" selected="Application.rmi_b7_OPSyWfqH">
+    <configuration name="rmi_b3_khHFrA1U" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RMI.rmi_b3_khHFrA1U" />
       <module name="TH" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UDP.*" />
+          <option name="PATTERN" value="RMI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="object_b1_OxSGOB3O" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UDP.object_b1_OxSGOB3O" />
+    <configuration name="rmi_b4_99Gw3mrh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RMI.rmi_b4_99Gw3mrh" />
       <module name="TH" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UDP.*" />
+          <option name="PATTERN" value="RMI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="object_b2_drVfljb6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UDP.object_b2_drVfljb6" />
+    <configuration name="rmi_b5_R1YmhawL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RMI.rmi_b5_R1YmhawL" />
       <module name="TH" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UDP.*" />
+          <option name="PATTERN" value="RMI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string_b1_7JXiBkDn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UDP.string_b1_7JXiBkDn" />
+    <configuration name="rmi_b6_jZ2VXKlN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RMI.rmi_b6_jZ2VXKlN" />
       <module name="TH" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UDP.*" />
+          <option name="PATTERN" value="RMI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string_b2_Hm6KnJGp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UDP.string_b2_Hm6KnJGp" />
+    <configuration name="rmi_b7_OPSyWfqH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RMI.rmi_b7_OPSyWfqH" />
       <module name="TH" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UDP.*" />
+          <option name="PATTERN" value="RMI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.object_b2_drVfljb6" />
-        <item itemvalue="Application.object_b1_OxSGOB3O" />
-        <item itemvalue="Application.string_b2_Hm6KnJGp" />
-        <item itemvalue="Application.string_b1_7JXiBkDn" />
-        <item itemvalue="Application.data_type_b2_6582m4L5" />
+        <item itemvalue="Application.rmi_b7_OPSyWfqH" />
+        <item itemvalue="Application.rmi_b6_jZ2VXKlN" />
+        <item itemvalue="Application.rmi_b5_R1YmhawL" />
+        <item itemvalue="Application.rmi_b4_99Gw3mrh" />
+        <item itemvalue="Application.rmi_b3_khHFrA1U" />
       </list>
     </recent_temporary>
   </component>
